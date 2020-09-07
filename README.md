@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [github.com/debnathSD](github.com/debnathSD)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
-- 📫 How to reach me **sourav2012d@gmail.com**
+- 📫 How to reach me **sourav2012d@gmail.com / souravd.cgr@gmail.com**
 
 - ⚡ Fun fact **Cook of the House**
 
