@@ -16,7 +16,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debnathsd&layout=compact&hide=html" alt="debnathsd" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/sourav debnath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourav debnath" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/sourav-debnath-b4a18553/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sourav debnath" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/js___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="js___" height="30" width="30" /></a>
 <a href="https://fb.com/sourav debnath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sourav debnath" height="30" width="30" /></a>
 <a href="https://instagram.com/ravo_lution" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ravo_lution" height="30" width="30" /></a>
