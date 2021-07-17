@@ -4,9 +4,9 @@
 
 🎓 I am Sourav Debnath, a **Front End Web Developer** (specializing in **React Applications**) from **India**.
 
-👨‍💻 I am really enthusiastic about learning new technologies. In 2021, till now, I have learnt **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Electron** and a bit about **Three.js**.
+👨‍💻 I am really enthusiastic about learning new technologies. In 2021, till now, I have learnt **AWS**, **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Electron** and a bit about **Three.js**.
 
-🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar** to a crazy **gamer**.
+🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar** to a crazy **FPS gamer**.
 
 📚 I love **philosophy** and **literature**, you can connect with me anytime to discuss over deep philosophical thoughts or a quality poem!
 
