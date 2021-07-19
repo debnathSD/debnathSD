@@ -8,7 +8,11 @@
 
 🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar** to a crazy **FPS gamer**.
 
-📚 I love **philosophy** and **literature**, you can connect with me anytime to discuss over deep philosophical thoughts or a quality poem!
+📚 I love **philosophy** and **literature**, you can connect with me anytime to discuss over deep philosophical thoughts or a quality poem! 
+
+**"Below the surface of the machine, the program moves. Without effort, it expands and contracts. In great harmony, electrons scatter and regroup. The forms on the monitor are but ripples on the water. The essence stays invisibly below."**
+
+**- Master Yuan-Ma, The Book of Programming**
 
 ⚡ Fun fact **Cook of the House**
 
