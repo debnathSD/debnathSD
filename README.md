@@ -85,11 +85,11 @@
 </div>
 
 <div align="center">
-![Sourav Most Committed Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debnathSD&theme=solarized_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=debnathSD&theme=solarized_dark" alt="Sourav Debnath's Most Used Languages">
  </div>
  
  <div align="center">
-![Sourav Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debnathSD&theme=solarized_dark)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debnathSD&theme=solarized_dark" alt="Sourav Debnath's Summary")
  </div>
 
 <div align="center">
