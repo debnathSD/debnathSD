@@ -6,7 +6,7 @@
 
 👨‍💻 I am really enthusiastic about learning new technologies. In 2021, till now, I have learnt **AWS**, **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Electron** and a bit about **Three.js**.
 
-🎸 Outside the world of tech too, I love pushing myself to develop new skills ranging from **guitar** to a crazy **FPS gamer**.
+🌱 Outside the world of tech, I love to develop new skills ranging from **gardening** to develop map strategies for **FPS games**!
 
 📚 I love **philosophy** and **literature**, you can connect with me anytime to discuss over deep philosophical thoughts or a quality poem! 
 
