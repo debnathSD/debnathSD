@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Sourav Debnath, a **Front End Web Developer** (specializing in **React Applications**) from **India**.
+🎓 I am Sourav Debnath, a **Front End Web Developer** (specializing in **React Applications**) from **Chandannagar, West Bengal, India**.
 
 👨‍💻 I am really enthusiastic about learning new technologies. In 2021, till now, I have learnt **AWS**, **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Electron** and a bit about **Three.js**.
 
