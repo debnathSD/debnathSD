@@ -4,7 +4,7 @@
 
 🎓 I am Sourav Debnath, a **Front End Web Developer** (specializing in **React Applications**) from **Chandannagar, West Bengal, India**.
 
-👨‍💻 I am really enthusiastic about learning new technologies. In 2021, till now, I have learnt **AWS**, **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Electron** and a bit about **Three.js**.
+👨‍💻 I am really enthusiastic about learning new technologies - **AWS**, **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Electron** , **Three.js**.
 
 🌱 Outside the world of tech, I love to develop new skills ranging from **gardening** to develop map strategies for **FPS games**!
 
@@ -32,7 +32,6 @@
 
 ### Front-End Development
 
-![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
