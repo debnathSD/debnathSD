@@ -27,7 +27,6 @@
 
 ### Cross Platfrom Development (Skill development - in progress)
 
-![flutter](https://img.shields.io/badge/Flutter-28B6F6?style=for-the-badge&logo=flutter&logoColor=white)
 ![electron](https://img.shields.io/badge/Electron-2C2E3B?style=for-the-badge&logo=electron&logoColor=white)
 
 ### Front-End Development
